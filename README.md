@@ -1,2 +1,2 @@
-# Data Science UCSB docs
-Knowledge base for Data Science UCSB
+# Page 1
+
